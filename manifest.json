@@ -1,0 +1,12 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Classic Tetris",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Tetris",
+  "start_url": "/",
+  "theme_color": "#080818",
+  "description": "Classic game of Tetris"
+}
